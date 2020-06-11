@@ -7,6 +7,14 @@
     "npm-package-json-lintconfig",
     "npm-package-json-lint-config"
   ],
+  "homepage": "https://github.com/toolbuilder/package-json-lint-config#readme",
+  "bugs": {
+    "url": "https://github.com/toolbuilder/package-json-lint-config/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toolbuilder/package-json-lint-config.git"
+  },
   "license": "MIT",
   "main": "npmpackagejsonlint.config.js",
   "module": "src/index.js",
