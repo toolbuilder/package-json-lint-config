@@ -1,6 +1,6 @@
 {
   "name": "@toolbuilder/package-json-lint-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Config module for npm-package-json-lint.",
   "keywords": [
     "npm-package-json-lint",
